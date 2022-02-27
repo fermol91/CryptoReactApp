@@ -1,0 +1,19 @@
+ul {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 100%;
+}
+
+.Navigation {
+	display: flex;
+	background: rgb(7, 8, 48);
+	min-height: 5vh;
+}
+
+.Link {
+	color: white;
+	list-style: none;
+	font-size: 20px;
+    
+}
